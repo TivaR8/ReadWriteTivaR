@@ -59,19 +59,5 @@ namespace ReadWriteTivaR.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to abc   	ABC
-        ///bird    brd
-        ///1234    12345
-        ///a	b
-        ///little	Little
-        ///3=5a5	3=4a5.
-        /// </summary>
-        internal static string input {
-            get {
-                return ResourceManager.GetString("input", resourceCulture);
-            }
-        }
     }
 }

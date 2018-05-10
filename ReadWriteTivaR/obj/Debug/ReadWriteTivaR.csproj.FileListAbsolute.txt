@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\bin\Debug\ReadWriteTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\bin\Debug\ReadWriteTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\bin\Debug\ReadWriteTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\obj\Debug\ReadWriteTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\obj\Debug\ReadWriteTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\obj\Debug\ReadWriteTivaR.frmReadWrite.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\obj\Debug\ReadWriteTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\obj\Debug\ReadWriteTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\ReadWriteTivaR\ReadWriteTivaR\obj\Debug\ReadWriteTivaR.pdb

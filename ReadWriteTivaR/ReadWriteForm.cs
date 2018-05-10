@@ -12,10 +12,13 @@ using System.Windows.Forms;
  * Created on: 9-05-2017 <3
  * Created for: ICS3U Programming
  * Daily Assignment – Day #37 - File Read/Write
- * This program...
+ * This program reads a text file and puts them into an ...
+ * ...array for each line there are two words and it...
+ * ...checks to see if the words are equal. It then outputs...
+ * ...a file that has gone through each line of code and has...
+ * ...written true or false depending on if the two words in each...
+ * ...line are the same.
 */
-
-
 namespace ReadWriteTivaR
 {
     public partial class frmReadWrite : Form
@@ -26,11 +29,42 @@ namespace ReadWriteTivaR
             this.lblConfirmOutput.Hide();
         }
 
+        // Procedure: StringsAreEqual
+        // Input: stringOne and stringTwo
+        // Output: bool isEqual
+        // Description: It checks to see if the strings are equal in length...
+        // ... and when they are both capitalized
+        private bool StringsAreEqual(string wordOne, string wordTwo)
+        {
+            // Declare local Variables
+            bool isEqual = false;
+            string upcaseWordOne, upcaseWordTwo;
+
+            // To find their length
+            if (wordOne.Length == wordTwo.Length)
+            {
+                // Convert the strings to upper case and then compare them
+                upcaseWordOne = wordOne.ToUpper();
+                upcaseWordTwo = wordTwo.ToUpper();
+
+                // See if they are the same still
+                if (upcaseWordOne == upcaseWordTwo)
+                {
+                    // If they are the same set the boolean to true
+                    isEqual = true;
+                }
+
+            }
+
+
+            return isEqual;
+        }
+
         private void btnCheck_Click(object sender, EventArgs e)
         {
             // Read each line of the file into a string array. Each element...
             // ... of the array is one line of the file.
-            string[] lines = System.IO.File.ReadAllLines("@input.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"input.txt");
 
             // array of characters that I want to take out when I split the line into words
             char[] charSeparators = new char[] { ' ', '\t' };
